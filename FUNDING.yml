@@ -1,0 +1,5 @@
+# Account-wide GitHub Sponsors & Open-Source Support configuration for @WallisonWS
+# Automatically enables the "Sponsor" button across all WallisonWS repositories.
+
+github: [WallisonWS]
+custom: ["https://wallison-dev.vercel.app/"]
